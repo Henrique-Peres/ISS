@@ -15,6 +15,7 @@ The ISS software can only be used for educational purposes. It cannot be used fo
 The software is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and non-infringement. In no event shall the authors or copyright holders be liable for any claim, damages or other liability, whether in an action of contract, tort or otherwise, arising from, out of or in connection with the software or the use or other dealings in the software.
 
 Developer: Henrique Estanislau Maldonado Peres
+
 Last update: 3/5/2024
 
 Acknowledgments
